@@ -1,0 +1,51 @@
+# Never commit raw conversation exports or transcripts
+chat_exports/
+raw_chats/
+raw_conversations/
+conversation_exports/
+*.html
+*.jsonl
+
+# Never commit raw or participant-level ROSMAP data
+raw_data/
+participant_level_data/
+controlled_access_data/
+rosmap_raw/
+*.rds
+*.RData
+*.parquet
+*.feather
+
+# Local/internal audit material
+internal/
+private/
+redacted_source_map/
+source_map_private.*
+data/*_internal.*
+data/*_private.*
+
+# Credentials / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+*.swo
+
+# Python / R artifacts
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
