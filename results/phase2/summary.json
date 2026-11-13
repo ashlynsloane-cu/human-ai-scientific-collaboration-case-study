@@ -1,0 +1,38 @@
+{
+  "stage": "phase2_automated_provenance_not_formal_coding",
+  "source_conversations": 1049,
+  "first_pass_flagged": 291,
+  "prior_first_pass_A_B_C": {
+    "A_core_evidence": 144,
+    "B_context_review": 64,
+    "C_weak_or_ai_only": 83
+  },
+  "review_groups": {
+    "weak_reference_review": 73,
+    "needs_project_identity_review": 57,
+    "direct_project_priority": 149,
+    "context_or_cross_project_review": 12
+  },
+  "mainline_user_assistant_messages": 14235,
+  "alternate_user_assistant_messages_not_in_current_branch": 194,
+  "candidate_interaction_cues_NOT_VALIDATED": 2028,
+  "attachment_references_NOT_AVAILABLE_AS_BINARIES": 3468,
+  "monthly_rows": 16,
+  "frozen_v1_protocol_files_locally_available": false,
+  "baseline_31_candidate_records_file_locally_available": false,
+  "raw_rosmap_data_access_proven": false,
+  "findings_intervention_impact_or_persistence_proven": false,
+  "substantive_cautions": [
+    "Screening reflects terms, not confirmed project membership.",
+    "Candidate cues detect language, not formal acceptance/rejection or causal effects.",
+    "No user/assistant bodies are included in output CSVs.",
+    "E0-E5 exposure classification remains unassessed until human review.",
+    "Alternate conversation branches must be reconciled before human-AI sequence coding.",
+    "Artifact references do not imply artifacts were included or accessed by this pipeline.",
+    "Manuscript/code artifact verification requires separate files or linked repository.",
+    "Do not put PRIVATE_LOCAL_ONLY outputs into any GitHub repository.",
+    "Five conversations outside the initial 291-screened set mention MIC or DLD/DLST; they are possible early/adjacent project evidence, not confirmed in-scope."
+  ],
+  "additional_outside_initial_screen_for_manual_review": 5,
+  "all_possible_review_candidates_including_rescues": 296
+}

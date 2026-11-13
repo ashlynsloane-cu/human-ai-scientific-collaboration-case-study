@@ -1,0 +1,29 @@
+{
+  "all_passed": true,
+  "checks": {
+    "source_conversations_unique": true,
+    "lexical_rescue_disjoint_from_first_screen": true,
+    "mainline_nodes_unique": true,
+    "alternate_nodes_unique": true,
+    "mainline_alt_disjoint": true,
+    "every_message_source_in_review": true,
+    "every_event_user_node_resolves": true,
+    "every_event_ai_pointer_resolves": true,
+    "candidate_ids_unique": true,
+    "event_count_matches_summary": true,
+    "attachment_count_matches_summary": true,
+    "spot_check_source_nodes_resolve": true,
+    "all_codes_unassessed": true,
+    "all_artifact_implementation_unverified": true,
+    "no_raw_message_body_field": true
+  },
+  "counts": {
+    "review_queue": 291,
+    "mainline_messages": 14235,
+    "alternate_messages": 194,
+    "candidate_events": 2028,
+    "attachment_references": 3468,
+    "spot_checks": 6,
+    "lexical_rescue_candidates": 5
+  }
+}
