@@ -1,0 +1,14 @@
+# Resolution gates before full intervention coding
+
+1. **Review the eight unresolved first-pass cases** using original messages and relevant attachments when available. They concern an unspecified neuron-culture experiment, an unlabeled low-molecular-weight immunoblot target, an attached but inaccessible ROSMAP script, a MIC article explanation, an MIC assay dataset, two MIC dilution workflows, and an unspecified qPCR kit comparison. Until direct project identity is established, do not assign inclusion by inference.
+2. **Audit original screen false negatives.** One of the 25 originally unscreened probability-pilot cases is provisionally included; one more is uncertain. Expand the corpus discovery strategy for manuscript-revision language and supplementary-table references, then review new candidates by full context. Document query changes and apply the rules without retroactively modifying frozen V1.
+3. **Complete coverage of screened groups.** The 140-case pilot contains only part of the 291 first-screened records. Expand source-based eligibility adjudication to all 291 plus newly recovered project conversations. Context-overlap with separate AREA rotation is not sufficient for inclusion.
+4. **Audit unscreened cases.** The remaining originally unscreened records require a defensible high-recall second pass and targeted review of non-text-only cases. The original 758 excluded-by-screen cannot currently be asserted irrelevant.
+5. **Independent human review.** The private package contains a 40-case SHA-ranked blinded allocation (10 from each original stratum), independent of first-pass inclusion decisions, plus six additional unresolved cases for targeted follow-up. **The packet has not been redacted or shared.** Before external review, remove sensitive content, inspect institutional/coauthor permissions, and provide adequate source context. Keep unresolved-case enrichment separate from any reliability denominator.
+6. **Adjudicate disagreements.** Preserve both coder labels and justifications. Only then compute appropriately scoped nominal agreement or kappa for eligibility. No kappa has yet been calculated.
+7. **Exposure and branches.** Audit nontext components and alternate branches separately; leave inaccessible content `UNASSESSED` and never infer absence of participant-level data.
+8. **Freeze reviewed corpus version.** Once eligible conversations are reconciled, assign a new corpus index version and source fingerprint without changing the frozen V1 outcome rules. Then begin event-boundary coding and artifact tracking.
+
+## Suggested independent coder template
+
+`include | exclude | uncertain`, source segment reference, decision rationale, and whether additional attachment or lab context was necessary. The second coder must not see the first coder's label or use the first coder's rationale.

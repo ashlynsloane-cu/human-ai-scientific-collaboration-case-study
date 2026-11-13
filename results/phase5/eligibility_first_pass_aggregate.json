@@ -1,0 +1,96 @@
+{
+  "artifact_propagation": "NOT_ESTABLISHED",
+  "basis": "single-reviewer source-text/context screening; media and alternate branches not comprehensively adjudicated",
+  "enriched_review_set_not_representative": true,
+  "event_coding": "NOT_STARTED",
+  "exposure_E0_E5": "UNASSESSED; cannot claim absence of E5",
+  "full_corpus_recall": "NOT_ESTABLISHED",
+  "independent_second_coder": "REQUIRED",
+  "lexical_rescue_census": {
+    "decisions": {
+      "exclude": 0,
+      "include": 1,
+      "uncertain": 4
+    },
+    "n": 5
+  },
+  "missed_inclusion_confirmed_in_probability_out_of_scope_sample": true,
+  "original_screen_strata": {
+    "A_core_evidence": {
+      "decisions": {
+        "exclude": 3,
+        "include": 33,
+        "uncertain": 0
+      },
+      "n": 36
+    },
+    "B_context_review": {
+      "decisions": {
+        "exclude": 10,
+        "include": 20,
+        "uncertain": 0
+      },
+      "n": 30
+    },
+    "C_weak_or_ai_only": {
+      "decisions": {
+        "exclude": 8,
+        "include": 14,
+        "uncertain": 3
+      },
+      "n": 25
+    },
+    "out_of_scope_screen": {
+      "decisions": {
+        "exclude": 42,
+        "include": 2,
+        "uncertain": 5
+      },
+      "n": 49
+    }
+  },
+  "overall_decisions": {
+    "exclude": 63,
+    "include": 69,
+    "uncertain": 8
+  },
+  "phase": "phase5_first_pass_corpus_eligibility",
+  "probability_pilot_only": {
+    "A_core_evidence": {
+      "decisions": {
+        "exclude": 2,
+        "include": 23,
+        "uncertain": 0
+      },
+      "n": 25
+    },
+    "B_context_review": {
+      "decisions": {
+        "exclude": 6,
+        "include": 19,
+        "uncertain": 0
+      },
+      "n": 25
+    },
+    "C_weak_or_ai_only": {
+      "decisions": {
+        "exclude": 8,
+        "include": 14,
+        "uncertain": 3
+      },
+      "n": 25
+    },
+    "out_of_scope_screen": {
+      "decisions": {
+        "exclude": 23,
+        "include": 1,
+        "uncertain": 1
+      },
+      "n": 25
+    }
+  },
+  "source_identifiers_published": false,
+  "status": "PROVISIONAL_NOT_DOUBLE_CODED",
+  "total_distinct_reviewed": 140,
+  "uncertainty_policy": "Unresolved project identity or inaccessible asset is uncertain, not imputed include/exclude"
+}
