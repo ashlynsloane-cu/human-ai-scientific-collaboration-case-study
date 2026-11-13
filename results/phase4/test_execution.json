@@ -1,0 +1,14 @@
+{
+  "gate": "pre_coding_integrity_only",
+  "python_version": "3.13.5",
+  "all_existing_and_new_unit_tests_passed": true,
+  "unit_tests_executed": 12,
+  "original_export_manifest_size_verification": "passed_11_of_11",
+  "phase2_candidate_pointer_validation": "passed_2028_of_2028",
+  "fresh_replay_public_json_identical": true,
+  "fresh_replay_private_review_pilot_identical": true,
+  "fresh_replay_private_digests_identical": true,
+  "formal_inclusion_or_intervention_coding": "NOT_DONE",
+  "e5_exposure_audit": "NOT_DONE",
+  "code_or_figure_attribution_audit": "NOT_DONE"
+}
