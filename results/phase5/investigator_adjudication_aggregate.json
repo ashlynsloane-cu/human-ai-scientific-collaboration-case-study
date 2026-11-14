@@ -1,0 +1,21 @@
+{
+  "changed_case_count": 2,
+  "exposure_and_implementation": "not evaluated by this aggregate",
+  "first_pass": {
+    "exclude": 63,
+    "include": 69,
+    "uncertain": 8
+  },
+  "first_pass_n": 140,
+  "included_case_confirmed_unchanged": 1,
+  "independence": "investigator adjudication, not an independent second review",
+  "post_adjudication": {
+    "exclude": 65,
+    "include": 69,
+    "uncertain": 6
+  },
+  "reliability_rule": "preserve original blind 40 agreement estimates; do not recompute from adjudicated labels",
+  "reviewed_case_count": 3,
+  "status": "PROVISIONAL_INVESTIGATOR_ADJUDICATION_NOT_CORPUS_FREEZE",
+  "uncertain_cases_resolved": 2
+}
