@@ -1,0 +1,49 @@
+{
+  "study_scope": "Hsp60/10 computational project, conversation creation 2025-10-01 or later",
+  "total_in_scope": 597,
+  "final_working_counts": {
+    "include": 245,
+    "exclude": 352,
+    "uncertain": 0
+  },
+  "previous_counts": {
+    "include": 246,
+    "exclude": 351,
+    "uncertain": 0
+  },
+  "new_investigator_decisions": 7,
+  "effective_corpus_changes": {
+    "include_to_exclude": 1,
+    "exclude_to_include": 0
+  },
+  "phase19_random_exclusion_sample": {
+    "sampled": 60,
+    "false_exclusions_observed": 0,
+    "original_sampling_frame_exclusions": 351,
+    "finite_population_one_sided_95pct_upper_count": 15,
+    "finite_population_one_sided_95pct_upper_rate_pct": 4.27
+  },
+  "phase19_included_controls": {
+    "sampled": 10,
+    "still_include": 9,
+    "changed_to_exclude": 1
+  },
+  "phase19_targeted_cases": {
+    "sampled": 7,
+    "exclude": 7
+  },
+  "integrity": {
+    "source_excerpt_hashes_verified": 77,
+    "conversation_shard_hashes_verified": 11,
+    "distinct_in_scope_conversations_verified": 597,
+    "previous_source_labels_preserved": true
+  },
+  "freeze_decision": "NOT_READY",
+  "blocking_gates": [
+    "Post-freeze scope amendments need a formal integrated inclusion/exclusion rule and sensitivity review.",
+    "Original reconstructed candidate index of 31 records has not been reconciled definitively against date-restricted corpus.",
+    "Uninspected non-text/alternate-branch material and incomplete source context create residual coverage risk.",
+    "A 60-case random negative audit has limited precision; cannot certify no false exclusions.",
+    "Investigator-only adjudication is not an independent external validity check; required separate independent event double-coding later."
+  ]
+}

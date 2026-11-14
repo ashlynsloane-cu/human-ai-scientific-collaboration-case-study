@@ -1,0 +1,21 @@
+{
+  "population": 597,
+  "corpus_start": "2025-10-01",
+  "scope": "Hsp60/10 ROSMAP computational research",
+  "previous_phase18": {"include": 243, "exclude": 354, "uncertain": 0},
+  "phase19_after_investigator_corrections": {"include": 246, "exclude": 351, "uncertain": 0},
+  "investigator_confirmed_corrections": 3,
+  "corrections_determined_by_probability_sampling": false,
+  "false_exclusion_probability_sample": {
+    "sampling_frame": 351,
+    "sample_size": 60,
+    "method": "SRSWOR",
+    "seed": 20261114,
+    "included_controls": 10,
+    "independent_human_validation_completed": false,
+    "observed_false_exclusion_rate": null
+  },
+  "purposive_review_cases": 7,
+  "original_labels_preserved": true,
+  "independent_review_and_artifact_coding_not_completed": true
+}

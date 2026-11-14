@@ -1,0 +1,16 @@
+{
+  "status": "calibration_pilot_in_progress_not_exhaustive",
+  "frozen_inclusion_roster_size": 245,
+  "pilot_conversations": 15,
+  "pilot_selection": "purposive_stratified_workflow_coverage",
+  "pilot_mainline_text_messages": 1031,
+  "pilot_user_messages": 464,
+  "handpicked_source_anchors": 16,
+  "handpicked_anchor_counts_are_not_estimates": true,
+  "source_export_shards_verified": 11,
+  "intervention_event_count": null,
+  "intervention_rate": null,
+  "external_second_coder_completed": false,
+  "downstream_implementation_verification": "not_performed",
+  "protocol_v1_modified": false
+}

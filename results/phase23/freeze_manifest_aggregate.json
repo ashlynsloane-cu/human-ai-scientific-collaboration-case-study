@@ -1,0 +1,93 @@
+{
+  "corpus_version": "hsp60_10_chatgpt_export_eligibility_v1.1",
+  "status": "QUALIFIED_FROZEN_EXPORT_DEFINED",
+  "protocol": "original protocol_v1.0 remains unchanged; post-freeze scope addendum 1.1 adopted",
+  "snapshot_date_utc": "2026-11-14",
+  "scope_start": "2025-10-01 00:00 America/Denver (inclusive)",
+  "unit": "exported ChatGPT conversation",
+  "original_export_conversations": 1049,
+  "out_of_scope_by_date": 452,
+  "in_scope": 597,
+  "included": 245,
+  "excluded": 352,
+  "unresolved": 0,
+  "locked_roster_sha256": "290c5ab8ff94fa23e609cbcd71635ab0a1b1d9e03eead16b3a21c6da1636eae7",
+  "locked_exclusion_roster_sha256": "2351c7faee957307206775a247fc7f7900de3160ceded0a1a3a1ca2bb9f62cfa",
+  "locked_full_ledger_sha256": "839becdf4180c3802c64708eddfbc4d00df5515302e9ee60dc7f15b23488ad27",
+  "source_shard_hashes": [
+    {
+      "file": "conversations-000.json",
+      "sha256": "69fe2d122df2dfa0005f5f907ec7a212fd7ea47ec7024d35dfc5c9454c0b003e",
+      "bytes": 1678051
+    },
+    {
+      "file": "conversations-001.json",
+      "sha256": "2bf6573ce944a707f0f03706f1f79b261e3a05c751cde085706cd4152a186b7c",
+      "bytes": 1784502
+    },
+    {
+      "file": "conversations-002.json",
+      "sha256": "6e3194e549c94d593b220582ce613ecd8b72986a66426eefde16c4a1db6b2400",
+      "bytes": 2372354
+    },
+    {
+      "file": "conversations-003.json",
+      "sha256": "3abb5c262fc0485e43d65e6eb282740d1e9bb52610175e0ff4bbe5706f0edd46",
+      "bytes": 2464497
+    },
+    {
+      "file": "conversations-004.json",
+      "sha256": "b9c8f4e0fd28cfd93200cc6fdf7e5875c789a24f902489465abcfff9627519a4",
+      "bytes": 7047643
+    },
+    {
+      "file": "conversations-005.json",
+      "sha256": "2b80ec2e28c1583c7e339dcb5631c827cc783eccb6779db5be101ac98da710a9",
+      "bytes": 10548715
+    },
+    {
+      "file": "conversations-006.json",
+      "sha256": "08a496e2f6be679f9a32c6175a0b56892cac0c84adb3363c001ea35d9ea732a6",
+      "bytes": 14199078
+    },
+    {
+      "file": "conversations-007.json",
+      "sha256": "a7758d500720af1e165d9c166bbad82649419fc186d4894df9ec304ff89c2bf6",
+      "bytes": 37566575
+    },
+    {
+      "file": "conversations-008.json",
+      "sha256": "2624a9e8bc348d00737f2232ab4ea679e4c79147c64ec0d6e14d364aef1bec45",
+      "bytes": 51452339
+    },
+    {
+      "file": "conversations-009.json",
+      "sha256": "dbf5fa36d509ed399eba301289735825f223892d6fb7a1b145eb2cff3a03a987",
+      "bytes": 15415162
+    },
+    {
+      "file": "conversations-010.json",
+      "sha256": "f1a1f310165587673c43ebea918d92464589f30a64b14019647b7f43e2bf55f4",
+      "bytes": 479034
+    }
+  ],
+  "alternate_branch_final_exclusions_confirmed": 2,
+  "false_exclusion_random_audit": {
+    "sampled_from_original_exclusion_frame": 60,
+    "original_frame_size": 351,
+    "confirmed_false_exclusions": 0,
+    "one_sided_95_upper_bound_count": 15,
+    "one_sided_95_upper_bound_percent": 4.27,
+    "caveat": "conditional on sampling design and investigator adjudication; no proof of zero omissions; not computed for changed 352-exclusion frame"
+  },
+  "scope_limitations": [
+    "Not account-wide or multimodal exhaustive",
+    "Legacy 31-record candidate index not available for direct reconciliation",
+    "Uninspected attachment payloads and other alternate branches could change context",
+    "No claims about Codex, deleted chats or other AI tools",
+    "Investigator adjudication is not independent validation",
+    "Post-freeze scope amendment documented, not prespecified"
+  ],
+  "roster_change_policy": "No edits to this frozen snapshot. Discoveries require amendment or supplemental sensitivity corpus with new hashes.",
+  "scientific_contribution_scoring_started": false
+}

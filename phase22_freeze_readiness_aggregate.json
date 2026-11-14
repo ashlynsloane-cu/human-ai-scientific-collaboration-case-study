@@ -1,0 +1,41 @@
+{
+  "phase": "22",
+  "status": "FREEZE_READY_CONDITIONAL_NOT_FROZEN",
+  "population_definition": "597 ChatGPT-export conversations created on/after 2025-10-01 America/Denver, computational Hsp60/10-ROSMAP project, including exploratory analyses and manuscript work, excluding unrelated wet lab and AREA rotation",
+  "included": 245,
+  "excluded": 352,
+  "unresolved_labels": 0,
+  "newly_confirmed_alternate_branch_exclusions": 2,
+  "new_effective_label_changes": 0,
+  "validation": {
+    "distinct_conversations": 597,
+    "all_labels_valid": true,
+    "all_alt_cases_match_excluded_effective_labels": true,
+    "phase21_export_shards_hash_matched": 11,
+    "phase21_reviewed_alt_conversations": 19,
+    "phase21_excluded_alt_conversations": 11,
+    "phase21_identified_keyword_alt_exclusions": 2
+  },
+  "false_exclusion_audit": {
+    "n_sampled_exclusions": 60,
+    "confirmed_misses": 0,
+    "original_pre_phase20_exclusion_frame": 351,
+    "one_sided_95_finite_population_bound_count": 15,
+    "one_sided_95_finite_population_bound_pct": 4.27,
+    "assumptions": "predefined simple random without replacement; accurate adjudication; applies to original 351-exclusion frame and not independently to any later modified exclusion frame"
+  },
+  "limitations": {
+    "legacy_31_index": "not available; cannot reconcile historical candidate-by-candidate provenance",
+    "multimodal_assets": "not exhaustively inspected, especially omitted attachment payloads",
+    "alternate_branches": "two high-priority matches confirmed excluded; 19 in-scope conversations have alternate user messages, not all content independently human reviewed",
+    "account_completeness": "no assertion of deleted chats, Codex, other platforms, or unexported content",
+    "independent_validation": "investigator adjudication is not independent reference truth; 60-case randomized review has finite precision",
+    "scope_amendments": "Oct 1 cutoff, computational-only boundary, AREA keyword contextual exceptions were introduced after original protocol freeze; preserve and disclose amendments"
+  },
+  "required_for_formal_freeze": [
+    "formal adoption of consolidated post-freeze scope amendment and explicit statement of export-defined boundaries",
+    "explicit acceptance of outstanding historical-index, multimodal, alternate branch and independent-validation limitations",
+    "record immutable input and final 245 included conversation IDs with hashes, version tag, and a no-silent-recoding rule"
+  ],
+  "preserved_base_ledger_sha256": "839becdf4180c3802c64708eddfbc4d00df5515302e9ee60dc7f15b23488ad27"
+}

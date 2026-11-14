@@ -1,0 +1,19 @@
+{
+  "frozen_corpus": 245,
+  "pilot_conversations": 15,
+  "messages_indexed": 1031,
+  "user_turns_triaged": 464,
+  "assistant_messages_indexed": 567,
+  "number_queued_for_event_boundary_review": 188,
+  "manual_contextual_calibration_examples": 30,
+  "source_message_mapping_verified": 1031,
+  "source_export_shards_verified": 11,
+  "scientific_steering_event_denominator": "NOT_ESTABLISHED",
+  "assistant_proposal_opportunity_denominator": "NOT_ESTABLISHED",
+  "independent_double_coding": "NOT_PERFORMED",
+  "artifact_verification": "NOT_PERFORMED",
+  "frozen_corpus_unchanged": true,
+  "qa_passed": true,
+  "candidate_queue_is_not_event_count": true,
+  "stage": "complete_first_pass_pilot_screen_only"
+}
