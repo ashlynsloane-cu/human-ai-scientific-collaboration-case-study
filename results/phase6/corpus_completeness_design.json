@@ -1,0 +1,41 @@
+{
+  "first_screened_but_not_pilot_reviewed": 200,
+  "original_31_reconstructed_seed_records": "NOT_YET_RECONCILED",
+  "originally_unscreened_and_not_pilot_reviewed": 709,
+  "phase": "phase6_postpilot_full_universe_retrieval_expansion",
+  "phase5_adjudicated_provisional": {
+    "exclude": 65,
+    "include": 69,
+    "uncertain": 6
+  },
+  "phase5_pilot_reviewed_n": 140,
+  "probability_audit": {
+    "denominator": 709,
+    "design": "stratified SHA256 stable-sample of previously unscreened unreviewed corpus using post-pilot similarity quartiles",
+    "estimator": "weighted within-quartile inclusion prevalence and exact/binomial intervals to be designed before interpreting sampled outcomes",
+    "per_similarity_quartile": 20,
+    "results": "NOT_CODED",
+    "sample_n": 80,
+    "sample_only_valid_for_its_own_prespecified_population": true,
+    "seed": "20261113-phase6-prospective",
+    "stratum_population_sizes": {
+      "Q1": 177,
+      "Q2": 177,
+      "Q3": 177,
+      "Q4": 178
+    }
+  },
+  "review_prioritization": {
+    "full_recall_not_established": true,
+    "not_probability_or_eligibility_classification": true,
+    "reliability_evaluation_on_phase5_pilot": "NOT_INDEPENDENT",
+    "type": "post-pilot project-positive TFIDF similarity with weak negative-control penalty",
+    "using_first_pass_labels_for_discovery": true
+  },
+  "source_visuals_exposure_E5": "UNASSESSED",
+  "status": "DISCOVERY_AND_AUDIT_SAMPLING_NOT_ELIGIBILITY_DECISIONS",
+  "steering_event_coding": "NOT_STARTED",
+  "total_export_conversations": 1049,
+  "unreviewed_conversations": 909,
+  "unscreened_pending_nontext_count": 180
+}

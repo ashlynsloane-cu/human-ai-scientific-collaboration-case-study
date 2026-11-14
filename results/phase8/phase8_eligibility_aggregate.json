@@ -1,0 +1,34 @@
+{
+  "all_nontext_reviewed": false,
+  "alternate_branches_exhaustively_reviewed": false,
+  "corpus_frozen": false,
+  "eligibility_error_rates_estimated": false,
+  "independent_phase8_human_reviews": 0,
+  "initially_screened_total_reviewed": 291,
+  "new_ai_labels": {
+    "exclude": 83,
+    "include": 113,
+    "uncertain": 45
+  },
+  "new_reviewed_originally_screened": 164,
+  "new_reviewed_phase6_unscreened_probability": 77,
+  "new_this_phase": 241,
+  "phase": "phase8_source_context_expanded_eligibility",
+  "phase6_unscreened_probability_sample_provisional_ai_labels": {
+    "exclude": 65,
+    "uncertain": 15
+  },
+  "previous_phase5_pilot_reviewed": 140,
+  "previous_phase7_reviewed": 60,
+  "probability_sample_overlap_carried_forward_from_phase7": 3,
+  "provisional_labels_not_final_or_recall_estimates": true,
+  "remaining_without_ai_source_context_review": 608,
+  "reviewer": "SINGLE_AI_PROVISIONAL_NOT_INDEPENDENT",
+  "total_distinct_with_ai_review": 441,
+  "total_export_conversations": 1049,
+  "working_total_ai_labels_including_investigator_phase5_overlay": {
+    "exclude": 163,
+    "include": 206,
+    "uncertain": 72
+  }
+}

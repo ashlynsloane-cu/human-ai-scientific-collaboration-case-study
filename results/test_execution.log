@@ -1,0 +1,15 @@
+test_adjudicated_label_not_allowed (test_phase25_validate_pilot_coverage.CoverageTests.test_adjudicated_label_not_allowed) ... ok
+test_duplicate_id (test_phase25_validate_pilot_coverage.CoverageTests.test_duplicate_id) ... ok
+test_duplicate_seq (test_phase25_validate_pilot_coverage.CoverageTests.test_duplicate_seq) ... ok
+test_duplicate_user_turn (test_phase25_validate_pilot_coverage.CoverageTests.test_duplicate_user_turn) ... ok
+test_missing_message (test_phase25_validate_pilot_coverage.CoverageTests.test_missing_message) ... ok
+test_missing_user_turn (test_phase25_validate_pilot_coverage.CoverageTests.test_missing_user_turn) ... ok
+test_valid (test_phase25_validate_pilot_coverage.CoverageTests.test_valid) ... ok
+test_wrong_case_pointer (test_phase25_validate_pilot_coverage.CoverageTests.test_wrong_case_pointer) ... ok
+test_wrong_role (test_phase25_validate_pilot_coverage.CoverageTests.test_wrong_role) ... ok
+test_wrong_source_hash (test_phase25_validate_pilot_coverage.CoverageTests.test_wrong_source_hash) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK

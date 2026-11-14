@@ -1,0 +1,12 @@
+{
+  "human_independent_review_performed": false,
+  "notes": "Executed locally with the private original ChatGPT export and prior source digest; source content is not public.",
+  "phase": "9",
+  "public_aggregate_replay_identical": true,
+  "real_selected_user_message_nodes_verified": 200,
+  "real_source_shards_sha256_verified": 11,
+  "selection_algorithm_replay_matches": true,
+  "synthetic_tests_failed": 0,
+  "synthetic_tests_passed": 14,
+  "test_module": "tests/test_phase9_validate_coverage.py"
+}

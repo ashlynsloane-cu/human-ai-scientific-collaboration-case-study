@@ -1,0 +1,61 @@
+{
+  "all_user_assistant_nodes_including_branches": 50688,
+  "artifact_attribution": "NOT_YET_VERIFIED",
+  "attachment_metadata_references_all_branches": 5398,
+  "candidate_cues_with_intervening_visible_user_turns": 45,
+  "candidate_cues_with_nonlatest_visible_ai_pointer": 0,
+  "conversation_count": 1049,
+  "conversations_with_nontext_review_needed": 394,
+  "current_node_status_counts": {
+    "ok": 1049
+  },
+  "exposure_E5_inference": "NOT_PERMITTED_WITHOUT_ASSET_REVIEW",
+  "first_pass_strata": {
+    "A_core_evidence": 144,
+    "B_context_review": 64,
+    "C_weak_or_ai_only": 83,
+    "out_of_scope_screen": 758
+  },
+  "first_screened": 291,
+  "input_files_manifest_size_verified": 11,
+  "lexical_rescue_unadjudicated": 5,
+  "limitations": [
+    "Original records include multimodal components not interpreted here.",
+    "Attachment metadata does not establish image or file contents.",
+    "Heuristic inclusion is not adjudicated; pilot is not an exhaustive audit.",
+    "Potential eligibility among unscreened threads is unquantified.",
+    "Git provenance alone cannot establish intellectual or code authorship.",
+    "Automated candidate cues are not steering-event outcomes.",
+    "Private review records include source IDs, filenames and titles; do not publish."
+  ],
+  "mainline_user_assistant_nodes_including_nonvisible": 50061,
+  "missing_root_parent_endpoints": 0,
+  "nontext_review_by_original_stratum": {
+    "A_core_evidence": 108,
+    "B_context_review": 41,
+    "C_weak_or_ai_only": 43,
+    "out_of_scope_screen": 202
+  },
+  "not_first_screened": 758,
+  "old_phase2_candidate_cues_not_accepted_events": 2028,
+  "phase": "phase4_pre_coding_gate_not_intervention_coding",
+  "phase2_source_message_pointers_unresolved": 0,
+  "phase2_source_pointer_issues": {},
+  "research_gate": "BLOCK_FINAL_INCLUSION_AND_ATTRIBUTION",
+  "sampling": {
+    "algorithm": "SHA256-ranking(seed, stratum, conversation_id)",
+    "distinct_private_review_records": 140,
+    "lexical_rescue_census_n": 5,
+    "nontext_oversample_n_by_category": {
+      "in_first_screen": 20,
+      "out_of_scope_screen": 20
+    },
+    "not_intervention_count": true,
+    "pilot_n_per_tier": 25,
+    "probability_pilot_n": 100,
+    "seed": "20261113"
+  },
+  "user_multimodal_nodes_all_branches": 1490,
+  "user_multimodal_with_nontext_parts_all_branches": 1490,
+  "user_multimodal_without_text_all_branches": 137
+}

@@ -1,0 +1,8 @@
+{
+  "tests_passed": 5,
+  "source_shards_verified": 11,
+  "source_conversations_verified": 597,
+  "frozen_included": 245,
+  "frozen_excluded": 352,
+  "freeze_verification": "PASS"
+}

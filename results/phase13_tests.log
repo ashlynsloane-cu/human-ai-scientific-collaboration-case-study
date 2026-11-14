@@ -1,0 +1,19 @@
+test_duplicate_ids_rejected (test_phase13_area_scope_rule.LedgerIntegrityTests.test_duplicate_ids_rejected) ... ok
+test_unrecognized_label_rejected (test_phase13_area_scope_rule.LedgerIntegrityTests.test_unrecognized_label_rejected) ... ok
+test_alternative_branch_triggers (test_phase13_area_scope_rule.ScopeTests.test_alternative_branch_triggers) ... ok
+test_assistant_only_triggers (test_phase13_area_scope_rule.ScopeTests.test_assistant_only_triggers) ... ok
+test_embedded_word_does_not_trigger (test_phase13_area_scope_rule.ScopeTests.test_embedded_word_does_not_trigger) ... ok
+test_lowercase_does_not_trigger (test_phase13_area_scope_rule.ScopeTests.test_lowercase_does_not_trigger) ... ok
+test_missing_source_rejected (test_phase13_area_scope_rule.ScopeTests.test_missing_source_rejected) ... ok
+test_original_label_preserved (test_phase13_area_scope_rule.ScopeTests.test_original_label_preserved) ... ok
+test_other_chats_unmodified (test_phase13_area_scope_rule.ScopeTests.test_other_chats_unmodified) ... ok
+test_rosmap_not_an_exemption (test_phase13_area_scope_rule.ScopeTests.test_rosmap_not_an_exemption) ... ok
+test_scan_restricts_population (test_phase13_area_scope_rule.ScopeTests.test_scan_restricts_population) ... ok
+test_standalone_uppercase_triggers (test_phase13_area_scope_rule.ScopeTests.test_standalone_uppercase_triggers) ... ok
+test_title_triggers (test_phase13_area_scope_rule.ScopeTests.test_title_triggers) ... ok
+test_underscore_file_path_triggers (test_phase13_area_scope_rule.ScopeTests.test_underscore_file_path_triggers) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.003s
+
+OK

@@ -1,0 +1,62 @@
+{
+  "all_11_shards_verified_against_prior_private_sha256_manifest": true,
+  "census_last_message_minor_clock_skew_cases": 57,
+  "human_revalidation_required": true,
+  "inclusion_date_rule": "Conversations created on or after 2025-10-01 local time. No conversation started before cutoff and continued after it in export.",
+  "no_contribution_scoring_or_final_corpus_freeze": true,
+  "original_export_conversations": 1049,
+  "phase": 10,
+  "phase10_new_automated_eligibility_proof": false,
+  "phase10_new_provisional_labels": {
+    "exclude": 129,
+    "uncertain": 18
+  },
+  "phase10_new_source_context_reviews": 147,
+  "phase_distribution": {
+    "phase10": {
+      "post_cutoff": 147,
+      "pre_cutoff": 0,
+      "rows": 147
+    },
+    "phase5": {
+      "post_cutoff": 114,
+      "pre_cutoff": 26,
+      "rows": 140
+    },
+    "phase7": {
+      "post_cutoff": 51,
+      "pre_cutoff": 9,
+      "rows": 60
+    },
+    "phase8": {
+      "post_cutoff": 192,
+      "pre_cutoff": 49,
+      "rows": 241
+    },
+    "phase9": {
+      "post_cutoff": 93,
+      "pre_cutoff": 107,
+      "rows": 200
+    }
+  },
+  "post_cutoff_in_scope": 597,
+  "post_cutoff_provisionally_screened": 597,
+  "post_cutoff_unreviewed_after_phase10": 0,
+  "post_cutoff_working_labels": {
+    "exclude": 274,
+    "include": 206,
+    "uncertain": 117
+  },
+  "pre_created_with_post_cutoff_messages": 0,
+  "pre_cutoff_removed_from_primary_scope": 452,
+  "prior_agreement_must_not_be_presented_as_specific_to_new_scope": true,
+  "prior_formal_human_blind40_now_out_of_scope": 7,
+  "prior_formal_human_blind40_still_in_scope": 33,
+  "record_kind": "investigator_date_scope_amendment_plus_single_ai_source_context_first_pass",
+  "requires_explicit_protocol_amendment_before_primary_analysis": true,
+  "scope_applied_after_prior_protocol_freeze": true,
+  "scope_effective_local": "2025-10-01T00:00:00-06:00",
+  "scope_timezone": "America/Denver",
+  "source_nontext_and_alt_branch_gaps_remain": true,
+  "uncertain_not_counted_as_exclusion": true
+}

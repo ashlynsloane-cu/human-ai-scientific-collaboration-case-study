@@ -1,0 +1,8 @@
+{
+  "synthetic_tests_passed": 14,
+  "all_source_shards_validated": 11,
+  "source_population_validated": 597,
+  "changes_validated": 9,
+  "deterministic_replay": "passed",
+  "private_case_contents_in_public_package": false
+}

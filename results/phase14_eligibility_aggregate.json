@@ -1,0 +1,28 @@
+{
+  "total": 597,
+  "reviewed": 40,
+  "before": {
+    "exclude": 287,
+    "include": 199,
+    "uncertain": 111
+  },
+  "after": {
+    "exclude": 296,
+    "include": 200,
+    "uncertain": 101
+  },
+  "human_labels": {
+    "exclude": 29,
+    "include": 9,
+    "uncertain": 2
+  },
+  "changed_labels": 11,
+  "uncertain_resolved": 10,
+  "original_ai_labels_preserved": true,
+  "working_corpus_period": "2025-10-01 onward",
+  "method": "post-freeze investigator scope as amended; Phase 11 blinded human decisions applied without changing prior labels",
+  "targeted_24_new_classifications": 0,
+  "targeted_24_sample_random": false,
+  "next_targeted_review_count": 24,
+  "source_integrity": "40/40 Phase 11 source transcript fingerprints verified against the private source crosswalk"
+}

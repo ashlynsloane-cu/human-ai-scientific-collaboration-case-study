@@ -1,0 +1,11 @@
+{
+  "audit": "phase5 first-pass source pointer integrity",
+  "checked_cases": 140,
+  "resolved_current_branch_node_ids": 140,
+  "matched_original_message_sha256": 140,
+  "matched_source_roles": 140,
+  "pointer_or_digest_errors": 0,
+  "validation_type": "automated source integrity, not independent inclusion-code validation",
+  "verified_against": "user-uploaded 11-file conversation export, local/private only",
+  "private_source_ids_in_repository": false
+}

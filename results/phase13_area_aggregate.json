@@ -1,0 +1,27 @@
+{
+  "decision_date": "2026-11-13",
+  "scope": "October 1 2025 onward; computational Hsp60/10-ROSMAP project",
+  "rule": "case-sensitive standalone uppercase AREA in conversation title or mapped user/assistant text",
+  "all_message_branches_scanned": true,
+  "total_conversations": 597,
+  "original_counts": {
+    "exclude": 278,
+    "include": 202,
+    "uncertain": 117
+  },
+  "new_working_counts": {
+    "exclude": 287,
+    "include": 199,
+    "uncertain": 111
+  },
+  "matched_conversations": 45,
+  "matched_prior_labels": {
+    "exclude": 36,
+    "include": 3,
+    "uncertain": 6
+  },
+  "changed_labels": 9,
+  "potential_literal_false_positives": 2,
+  "prior_investigator_wet_lab_exclusions_unchanged": 4,
+  "status": "provisional investigator rule applied; exceptional false positives require review"
+}

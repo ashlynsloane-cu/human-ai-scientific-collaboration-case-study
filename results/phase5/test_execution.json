@@ -1,0 +1,15 @@
+{
+  "aggregate_replay": "byte-identical output from private source ledger",
+  "errors": 0,
+  "failures": 0,
+  "independent_scientific_review": "NOT_PERFORMED",
+  "private_source_integrity": {
+    "errors": 0,
+    "records_checked": 140,
+    "source_node_sha256_verified": 140
+  },
+  "scope": "combined Phase 2, Phase 4, Phase 5 synthetic tests, clean assembled checkout",
+  "status": "PASS",
+  "test_suite": "python3 -m unittest discover -s tests -v",
+  "tests_run": 18
+}
