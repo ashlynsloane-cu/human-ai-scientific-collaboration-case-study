@@ -1,0 +1,16 @@
+{
+  "phase": "phase8_eligibility_audit",
+  "execution_type": "local_current_turn",
+  "synthetic_unit_tests_run": 11,
+  "synthetic_unit_tests_passed": 11,
+  "real_private_241_user_node_and_sha256_validation": "PASSED",
+  "real_original_11_export_shard_sha256": "PASSED",
+  "real_original_export_unique_conversations": 1049,
+  "real_pilot_and_phase7_disjointness": "PASSED",
+  "real_phase5_investigator_overlay_source_preservation": "PASSED",
+  "real_probability_sample_accounted_for": 80,
+  "independent_human_label_accuracy": "NOT_TESTED",
+  "false_negative_rate": "NOT_ESTIMATED",
+  "export_image_and_attachment_content_review": "INCOMPLETE",
+  "full_conversation_and_alternate_branch_review": "INCOMPLETE"
+}
