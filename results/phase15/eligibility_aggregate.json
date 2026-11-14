@@ -1,0 +1,27 @@
+{
+  "decision_evidence_tier": "investigator_firsthand_project_membership_corroborated_where_available_by_transcripts",
+  "first_pass_ai_ratings_preserved": true,
+  "investigator_decisions": {
+    "exclude": 2,
+    "include": 22,
+    "uncertain": 0
+  },
+  "no_new_artifact_attribution_or_intervention_scoring": true,
+  "not_independent_accuracy_or_agreement_measure": true,
+  "phase14_counts": {
+    "exclude": 296,
+    "include": 200,
+    "uncertain": 101
+  },
+  "phase15_counts": {
+    "exclude": 298,
+    "include": 222,
+    "uncertain": 77
+  },
+  "population": "chatgpt_export_conversations_created_on_or_after_2025-10-01",
+  "previous_human_ratings_preserved": true,
+  "sampling_note": "24 purposively prioritized uncertain cases, not a prevalence sample",
+  "scope_note": "computational Hsp60/10 ROSMAP project; related but separate wet-lab experiments excluded",
+  "source_case_text_fingerprints_verified": 24,
+  "total": 597
+}
