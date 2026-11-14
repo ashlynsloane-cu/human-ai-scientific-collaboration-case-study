@@ -1,0 +1,12 @@
+{
+  "errors": 0,
+  "excludes_accuracy_claim": true,
+  "failed": 0,
+  "number_tests": 13,
+  "passed": 13,
+  "phase": 10,
+  "private_data_published": false,
+  "scope_reconciliation_passed": true,
+  "source_11_shards_sha256_matched": true,
+  "test_suite": "synthetic_scope_validation"
+}
