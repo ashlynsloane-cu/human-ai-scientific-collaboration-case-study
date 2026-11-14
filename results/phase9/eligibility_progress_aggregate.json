@@ -1,0 +1,43 @@
+{
+  "confound_warning": "The original screen is known to miss some project material. Generic lab/figure/paper conversations stay UNCERTAIN when source linkage cannot be established.",
+  "cumulative_provisional_labels_with_previous_investigator_overlay": {
+    "exclude": 309,
+    "include": 206,
+    "uncertain": 126
+  },
+  "export_total": 1049,
+  "new_200_nontext_flagged": 53,
+  "new_high_ranked_conversations": 120,
+  "new_independent_human_reviews": 0,
+  "new_lower_rank_probability_review": 80,
+  "new_provisional_by_partition": {
+    "HIGH_CONTEXT_RANK": {
+      "exclude": 74,
+      "uncertain": 46
+    },
+    "LOW_RANK_PROBABILITY_AUDIT": {
+      "exclude": 72,
+      "uncertain": 8
+    }
+  },
+  "new_provisional_labels": {
+    "exclude": 146,
+    "uncertain": 54
+  },
+  "new_source_excerpt_assessed": 200,
+  "no_corpus_freeze_or_recall_estimate": true,
+  "no_new_confirmed_inclusion_from_200_excerpt_based_reviews": true,
+  "original_frozen_protocol_unchanged": true,
+  "phase": "9",
+  "previous_reviewed": 441,
+  "record_kind": "source_excerpt_ai_first_pass_not_final",
+  "remaining_608_asset_text_payloads_assessed": false,
+  "remaining_608_full_text_indexed_for_retrieval": true,
+  "remaining_608_no_user_text": 1,
+  "remaining_608_nontext_flagged": 159,
+  "remaining_at_phase_start": 608,
+  "selection_bias_warning": "HIGH_CONTEXT_RANK is enriched. LOW_RANK_PROBABILITY_AUDIT samples only the lower-ranked 488, not the full 608. Both sets require human validation before inference.",
+  "single_ai_reviewer": true,
+  "still_without_source_excerpt_assessment": 408,
+  "working_total_distinct_assessed": 641
+}
